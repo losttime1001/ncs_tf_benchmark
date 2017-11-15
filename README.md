@@ -19,6 +19,6 @@ Then excute it.
 
 ## Example:
 
-```$ python test_ncs_v3.py```
+```$ python test_ncs_v3.py ../../data/image/cat.jpg```
 
 It will show you the predict label and predict time.
