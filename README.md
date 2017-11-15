@@ -10,15 +10,15 @@ inception-v3
 
 ## How to use:
 
-Excute 'your/ncsdk/path/examples/tensoeflow/inception_XX/inception_XX.py' first.
+Excute `your/ncsdk/path/examples/tensoeflow/inception_XX/inception_XX.py` first.
 
-Put the code to 'your/ncsdk/path/examples/tensorflow/inception_XX/'
+Put the code to `your/ncsdk/path/examples/tensorflow/inception_XX/`
 
 Then excute it.
 
 
 ## Example:
 
-'''$ python test_ncs_v3.py'''
+```$ python test_ncs_v3.py```
 
 It will show you the predict label and predict time.
